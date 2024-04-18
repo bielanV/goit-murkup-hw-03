@@ -38,12 +38,10 @@ font-style: normal;
     width: 1158px;
     padding: 0 15px 0 15px;
     margin: 0 auto;
-    padding: 24px 0;
 }
 
 .header {
     padding-top: 24px;
-    padding: 24px 0;
     padding-bottom: 24px;
 }
 
@@ -103,7 +101,6 @@ gap: 40px;
 .contacts-list {
 display: flex;
 gap: 40px;
-padding: 24px 0;
 
 }
 
