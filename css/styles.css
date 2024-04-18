@@ -61,6 +61,7 @@ font-style: normal;
     display: flex;
     /* justify-content: space-between; */
     align-items: center;
+    padding: 24px 0;
 }
 
 .nav-logo{
@@ -72,11 +73,12 @@ font-style: normal;
         text-transform: uppercase;
         color: #4d5ae5;
         display: flex;
+        margin-right: 76px
 }
 
 .nav-list {
 display: flex;
-gap: 76px;
+align-items: center;
 }
 
 .address-list {
