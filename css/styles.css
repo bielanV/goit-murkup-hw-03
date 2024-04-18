@@ -242,6 +242,7 @@ width: calc((100% - 3 * 24px) / 4);
 
 .section-taem {
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 
 .section-team-form {
@@ -256,19 +257,19 @@ width: calc((100% - 3 * 24px) / 4);
     text-align: center;
     color: #2E2F42;
     text-transform: capitalize;
-    padding-top: 120px;
-    padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 
 .list-team-hum {
     background-color:#F4F4FD;
-    padding-bottom: 120px;
+
     display: flex;
     gap: 24px;
 }
 
 .list-team-one {
     background-color: #FFFFFF;
+    border-radius: 0px 0px 4px 4px;
 }
 
 .list-team-photo {
