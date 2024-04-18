@@ -189,8 +189,12 @@ gap: 40px;
 
 /*-------------- DEFENITIONS hidden------------------ */
 
+.text-definitions-two {
+    padding: 120px 0;
+}
+
 .defenition-section {
-    padding: 96px 0;
+
     }
 
 .visually-hidden {
