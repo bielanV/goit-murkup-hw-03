@@ -52,7 +52,7 @@ font-style: normal;
 /*-------------- HEADER------------------ */
 
 .header {
-    padding: 0 15px
+    padding: 0 15px;
     border-bottom: 1px solid #E7E9FC;
     margin-bottom: 96px;
 }
