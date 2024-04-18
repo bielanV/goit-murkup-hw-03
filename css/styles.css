@@ -303,7 +303,8 @@ width: calc((100% - 3 * 24px) / 4);
 /*-------------- OUR PORTFOLIO------------------ */
 
 .section-portfolio-third {
-margin: 96px 0 96px 0;
+padding-bottom: 120px;
+padding-top: 120px;
 }
 
 .title-portfolio-third {
@@ -314,8 +315,6 @@ margin: 96px 0 96px 0;
     text-align: center;
     color: #2E2F42;
     text-transform: capitalize;
-    /* padding-top: 96px; */
-    /* padding-bottom: 72px;     */
     margin-bottom: 72px;
 }
 
