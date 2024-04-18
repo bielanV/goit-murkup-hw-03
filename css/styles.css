@@ -272,6 +272,10 @@ width: calc((100% - 3 * 24px) / 4);
     border-radius: 0px 0px 4px 4px;
 }
 
+.check-info {
+    padding: 32px 0;
+}
+
 .list-team-photo {
     background-color: #FFFFFF;
     margin: auto ;
@@ -287,6 +291,7 @@ width: calc((100% - 3 * 24px) / 4);
     color: #2E2F42;
     padding-top: 32px;
     padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .section-taem-about {
@@ -296,6 +301,7 @@ width: calc((100% - 3 * 24px) / 4);
     text-align: center;
     color: #434455;
     padding-bottom: 32px;
+    text-align: center;
 }
 
 /*-------------- OUR PORTFOLIO------------------ */
