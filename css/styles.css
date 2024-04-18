@@ -36,7 +36,7 @@ font-style: normal;
 
 .container {
     width: 1158px;
-    padding: 0 15px;
+    padding: 0 15px 0 15px;
     margin: 0 auto;
 }
 
@@ -52,7 +52,7 @@ font-style: normal;
 /*-------------- HEADER------------------ */
 
 .header {
-    padding: 24px 15px;
+    padding: 0 15px
     border-bottom: 1px solid #E7E9FC;
     margin-bottom: 96px;
 }
