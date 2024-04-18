@@ -52,7 +52,7 @@ font-style: normal;
 /*-------------- HEADER------------------ */
 
 .header {
-    padding: 0 15px;
+    padding: 24px 0;
     border-bottom: 1px solid #E7E9FC;
     margin-bottom: 96px;
 }
@@ -61,7 +61,8 @@ font-style: normal;
     display: flex;
     /* justify-content: space-between; */
     align-items: center;
-    padding: 24px 15px;
+    padding: 0 15px;
+    
 }
 
 .nav-logo{
