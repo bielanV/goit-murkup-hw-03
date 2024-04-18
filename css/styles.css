@@ -143,6 +143,7 @@ gap: 40px;
 
 .section-title {
     background-color: #2E2F42;
+    padding: 188px 0;
 }
 
 .title {
@@ -154,13 +155,12 @@ gap: 40px;
     color: #FFFFFF;
     background-color: #2E2F42;
     padding-top: 188px;
-    width: 496px;
+    max-width: 496px;
     margin: auto;
 }
 
 .button-wrapper {
-    display: flex;
-    
+
 }
 
 .title-button:hover,
@@ -176,10 +176,15 @@ gap: 40px;
     line-height: 150%;
     letter-spacing: 0.04em;
     color: #FFFFFF;
-    cursor: pointer;
     background-color: #4D5AE5;
     margin-left: auto;
     margin-right: auto;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
 }
 
 /*-------------- DEFENITIONS hidden------------------ */
