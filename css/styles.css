@@ -154,7 +154,6 @@ gap: 40px;
     text-align: center;
     color: #FFFFFF;
     background-color: #2E2F42;
-    padding-top: 188px;
     max-width: 496px;
     margin: auto;
 }
@@ -172,7 +171,6 @@ gap: 40px;
     font-weight: 500;
     font-size: 16px;
     margin-top: 48px;
-    margin-bottom: 188px;
     line-height: 150%;
     letter-spacing: 0.04em;
     color: #FFFFFF;
@@ -289,7 +287,6 @@ width: calc((100% - 3 * 24px) / 4);
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
-    padding-top: 32px;
     padding-bottom: 8px;
     margin-bottom: 8px;
 }
@@ -300,15 +297,13 @@ width: calc((100% - 3 * 24px) / 4);
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    padding-bottom: 32px;
     text-align: center;
 }
 
 /*-------------- OUR PORTFOLIO------------------ */
 
 .section-portfolio-third {
-    padding-top: 120px;
-    padding-bottom: 120px;
+margin: 96px 0 96px 0;
 }
 
 .title-portfolio-third {
@@ -328,7 +323,6 @@ width: calc((100% - 3 * 24px) / 4);
 display: flex;
 flex-wrap: wrap;
 gap: 48px 24px;
-padding-bottom: 96px;
 }
 
 .section-portfolio-text {
@@ -380,15 +374,26 @@ padding-bottom: 100px;
 
 .nav-logo-footer {
     margin-bottom: 16px;
-        font-family: "Raleway", sans-serif;
-            font-weight: 700;
-            font-size: 18px;
-            line-height: 117%;
-            letter-spacing: 0.03em;
-            text-transform: uppercase;
-            color: #4d5ae5;
-             margin-right: 76px;
-            display: inline-block;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    margin-right: 76px;
+    display: inline-block;
+    }
+
+.nav-studio-footer {
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
+    display: inline-block;
 }
 
 .text-bellow {
@@ -397,6 +402,5 @@ padding-bottom: 100px;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #F4F4FD;
-    
     width: 264px;
 }
